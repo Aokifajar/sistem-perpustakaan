@@ -63,7 +63,7 @@ if(@$_SESSION['username']){
                   <button type="submit" class="btn btn-primary submit-btn btn-block"name="login" value="login">Login</button>
                 </div>
                
-            <p class="footer-text text-center">copyright © 2018 Laundryku. All rights reserved.</p>
+            <p class="footer-text text-center">copyright © 20189 Perpustakaan. All rights reserved.</p>
           </div>
         </div>
       </div>
